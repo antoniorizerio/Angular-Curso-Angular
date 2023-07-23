@@ -1,0 +1,16 @@
+var spaceships = 10;
+var name1;
+var tipoBoolean;
+var tipoString;
+var tipoNumber;
+var tipoAny;
+var players = [1, 2, 3];
+var players_1 = [1, 2, 3];
+var players_2 = [1, 2, 3]; //inferes-se pelo tipo do argumento;
+var tipoBoolean_;
+var tipoString_;
+var tipoNumber_;
+tipoAny = 12;
+tipoAny = "12";
+name1 = "han solo";
+console.log(spaceships);

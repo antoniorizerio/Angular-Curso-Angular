@@ -1,0 +1,11 @@
+
+// Possui as Configurações básicas do compilador //
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "outDir": "jsScripts/",
+        "noEmitOnError": false // Não emita o .js se o código do meu .ts contiver um Erro;
+
+    }
+    
+}
